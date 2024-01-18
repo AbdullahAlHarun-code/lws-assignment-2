@@ -1,0 +1,273 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 25,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1925
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 20,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1960
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 15,
+      "isFavourite": false,
+      "rating": 5,
+      "publishedYear": 1949
+    },
+    {
+      "id": 4,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 30,
+      "isFavourite": true,
+      "rating": 4,
+      "publishedYear": 1951
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 18,
+      "isFavourite": false,
+      "rating": 5,
+      "publishedYear": 1813
+    },
+    {
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 45,
+      "isFavourite": true,
+      "rating": 4,
+      "publishedYear": 1937
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "price": 35,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1997
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "price": 40,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1954
+    },
+    {
+      "id": 9,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "price": 28,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 2003
+    },
+    {
+      "id": 10,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "price": 32,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1977
+    },
+    {
+      "id": 11,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "price": 35,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1851
+    },
+    {
+      "id": 12,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 22,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1988
+    },
+    {
+      "id": 13,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "price": 20,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1818
+    },
+    {
+      "id": 14,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "price": 28,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 8th century BCE
+    },
+    {
+      "id": 15,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "price": 30,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 2005
+    },
+    {
+      "id": 16,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "price": 45,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1950
+    },
+    {
+      "id": 17,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "price": 30,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1932
+    },
+    {
+      "id": 18,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "price": 22,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1897
+    },
+    {
+      "id": 19,
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "price": 33,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1939
+    },
+    {
+      "id": 20,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "price": 26,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1859
+    },
+    {
+      "id": 21,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "price": 29,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1979
+    },
+    {
+      "id": 22,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "price": 24,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1847
+    },
+    {
+      "id": 23,
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "price": 35,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1897
+    },
+    {
+      "id": 24,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "price": 40,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1862
+    },
+    {
+      "id": 25,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "price": 37,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1967
+    },
+    {
+      "id": 26,
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "price": 32,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1926
+    },
+    {
+      "id": 27,
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "price": 48,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1844
+    },
+    {
+      "id": 28,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "price": 38,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1861
+    },
+    {
+      "id": 29,
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "price": 25,
+      "isFavourite": false,
+      "rating": 4,
+      "publishedYear": 1902
+    },
+    {
+      "id": 30,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "price": 28,
+      "isFavourite": true,
+      "rating": 5,
+      "publishedYear": 1890
+    }
+  ]
+  
