@@ -23,7 +23,7 @@ export default function SingleBook({singleBook}) {
       <div className="space-y-3">
         <h4 className="text-lg font-bold lg:text-xl">{singleBook.title}</h4>
         <p className="text-xs lg:text-sm">
-          By : <span>{singleBook.author}</span>
+          By : <span>{singleBook.author} | {singleBook.publishedYear} </span>
         </p>
         <div className="flex items-center justify-between">
           <h4 className="text-lg font-bold lg:text-xl">${singleBook.price}</h4>

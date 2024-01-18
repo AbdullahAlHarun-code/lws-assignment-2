@@ -1,6 +1,11 @@
 import SearchBook from "./SearchBook";
 
-export default function Filtering() {
+export default function Filtering({handleSearch, sortSelectBooks}) {
+  function sortBooks(event){
+    //console.log(event.target.value)
+    const sort = event.target.value
+    sortSelectBooks(sort)
+  }
   return (
     <header className="mb-8 lg:mb-10 mx-auto max-w-7xl">
       <div className="mx-auto flex items-end justify-between max-md:max-w-[95%] max-md:flex-col max-md:items-start max-md:space-y-4">
@@ -10,7 +15,7 @@ export default function Filtering() {
             Trending Books of the Year
           </h2>
 
-          <SearchBook />
+          <SearchBook onSearch={handleSearch} />
         </div>
 
         <div className="flex items-stretch space-x-3">
@@ -18,6 +23,7 @@ export default function Filtering() {
             className="cursor-pointer rounded-md border px-4 py-2 text-center text-gray-600"
             name="sortBy"
             id="sortBy"
+            onChange={sortBooks}
           >
             <option value="">Sort</option>
             <option value="name_asc">Name (A-Z)</option>
